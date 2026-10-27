@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# IDE / 개인 설정
+.vscode/
+.idea/
+*.swp
+
+# 비밀정보
+.env
+*.pem
+*_token*
+
+# 에이전트 작업 상태
+.omc/
